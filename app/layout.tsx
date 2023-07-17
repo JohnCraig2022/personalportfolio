@@ -16,6 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <link rel="stylesheet" href="./style.css" />
       <body className={montserrat.className}>{children}</body>
     </html>
   );
