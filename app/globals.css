@@ -5,6 +5,7 @@
 @layer components {
   .wrapper {
     @apply border-b-[1px] border-b-slate-600 py-20;
+    padding: 60px;
   }
 }
 
